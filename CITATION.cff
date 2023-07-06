@@ -1,0 +1,21 @@
+cff-version: 1.1.0
+message: "If you use this software or data, please cite it as below."
+authors:
+  - family-names: Weber
+    given-names: Lukas
+    orcid: https://orcid.org/0000-0003-4949-5529
+  - family-names: Viñas Boström
+    given-names: Emil
+    orcid: https://orcid.org/0000-0002-3318-4454
+  - family-names: Claassen
+    given-names: Martin
+    orcid: https://orcid.org/0000-0001-7580-0588
+  - family-names: Rubio
+    given-names: Angel
+    orcid: https://orcid.org/0000-0003-2060-3151
+  - family-names: Kennes
+    given-names: Dante M.
+    orcid: https://orcid.org/0000-0002-9838-6866
+title: lukas-weber/cavity-quantum-criticality: v1.0.0
+version: v1.0.0
+date-released: 2023-07-06
