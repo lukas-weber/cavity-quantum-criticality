@@ -16,6 +16,8 @@ authors:
   - family-names: Kennes
     given-names: Dante M.
     orcid: https://orcid.org/0000-0002-9838-6866
-title: lukas-weber/cavity-quantum-criticality: v1.0.0
+title: "Cavity renormalized quantum criticality in a honeycomb bilayer antiferromagnet: Data repository"
 version: v1.0.0
+type: dataset
 date-released: 2023-07-06
+doi: 10.5281/zenodo.8121963
