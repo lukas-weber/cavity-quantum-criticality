@@ -1,4 +1,6 @@
 # Cavity-renormalized quantum criticality in a honeycomb bilayer antiferromagnet
+[![DOI](https://zenodo.org/badge/663192392.svg)](https://zenodo.org/badge/latestdoi/663192392)
+
 
 This repository contains the code and data to produce the data figures of [arXiv:2302.08528](https://doi.org/10.48550/arXiv.2302.08528). 
 
