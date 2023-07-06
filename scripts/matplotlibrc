@@ -1,0 +1,22 @@
+figure.figsize: 3.375, 2
+text.usetex: True
+font.family         : serif
+font.serif: Computer Modern Roman, Latin Modern Roman, serif
+axes.prop_cycle : (cycler('marker', ['o', 's', '^', 'v', '<', '>', 'd']) + cycler('color', ['1f77b4','ff7f0e','2ca02c','d62728','9467bd','8c564b','e377c2']) + cycler('ls', ['-', '-', '-', '-', '-', '-', '-']))
+
+
+backend: QtAgg
+
+figure.dpi: 200
+lines.linewidth: 1
+lines.markersize: 2
+#errorbar.capsize : 1
+font.size: 9.0
+legend.fancybox: False
+legend.frameon: False
+legend.numpoints: 1      # the number of points in the legend line
+legend.handletextpad: 0.4
+legend.handlelength: 1
+#legend.labelspacing: 0.4
+legend.fontsize: 8
+legend.columnspacing: 0.8

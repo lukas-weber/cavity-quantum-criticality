@@ -1,0 +1,11 @@
+[deps]
+HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
+PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+
+[compat]
+PythonCall = "=0.9.13"
+HDF5 = "0.16.15"
+SpecialFunctions = "2.3.0"
+StaticArrays = "1.6.0"
